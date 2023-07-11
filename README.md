@@ -7,7 +7,7 @@ I completed this project by following [this](https://www.youtube.com/watch?v=MJz
 
 ## What have I learnt
 
-**Coding Techniques:**
+### Coding Techniques:
 
 Creating an index.js file to simplify component imports and improve code flexibility.\
 Using the Block Element Modifier (BEM) Methodology to enhance CSS maintainability.\
@@ -16,17 +16,17 @@ Leveraging "rafce" from the ES7 React Native snippets to generate boilerplate co
 Using the "&&" operator to conditionally render content based on a condition.\
 Making use of Axios, a library for backend communication.
 
-**JavaScript Concepts:**
+### JavaScript Concepts:
 
 Template literals (``) for incorporating variables into strings.\
 Object literals (:) to define property-value pairs within an object.\
 Using async functions to handle time-consuming tasks asynchronously, allowing the code to continue execution without blocking.
 
-**Error Handling:**
+### Error Handling:
 
 Utilizing the try-catch statement to handle errors and execute code based on error occurrence.
 
-**React Hooks:**
+### React Hooks:
 
 Leveraging the useEffect function to manage side effects in functional components.\
 Employing useState to manage local state within functional components.
@@ -37,7 +37,7 @@ Grammar mistakes: Addressed and resolved.\
 React Version: Uninstalled the current version of React and switched to React@17 for this project.
 
 	
-## <h3>Steps followed for the completion of the project:</h3>
+## Steps followed for the completion of the project:
 1. Create "Client" and "Server" folders
 2. Inside the Client folder "npx" was used to install the React application for an automatic setup of the build
 3. Installing the necessary dependencies
