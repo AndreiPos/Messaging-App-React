@@ -19,7 +19,8 @@ Making use of Axios, a library for backend communication.
 **JavaScript Concepts:**
 
 Template literals (``) for incorporating variables into strings.\
-Object literals (:) to define property-value pairs within an object.
+Object literals (:) to define property-value pairs within an object.\
+Using async functions to handle time-consuming tasks asynchronously, allowing the code to continue execution without blocking.
 
 **Error Handling:**
 
