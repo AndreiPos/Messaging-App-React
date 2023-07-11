@@ -10,7 +10,7 @@ I completed this project by following [this](https://www.youtube.com/watch?v=MJz
 **Coding Techniques:**
 
 Creating an index.js file to simplify component imports and improve code flexibility.\
-Using the Block Element Modifier (BEM) Methodology to enhance CSS maintainability. Example: "channel-search__input__icon".\
+Using the Block Element Modifier (BEM) Methodology to enhance CSS maintainability.\
 Utilizing the "?" (if) and ":" (else) syntax for conditional statements to improve readability.\
 Leveraging "rafce" from the ES7 React Native snippets to generate boilerplate code for components.\
 Using the "&&" operator to conditionally render content based on a condition.\
