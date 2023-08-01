@@ -2,7 +2,7 @@
 
 This project is a real-time messaging application built using React. It allows users to communicate with each other in real-time, create chat channels, and exchange messages seamlessly.
 
-I completed this project by following [this](https://www.youtube.com/watch?v=MJzbJQLGehs) tutorial that provided step-by-step guidance throughout the development process. The tutorial served as a valuable resource in learning React concepts, implementing client-server communication, integrating authentication, and incorporating essential features such as channel management, search functionality, and Twilio API for message notifications.
+I completed this project by following this [YouTube Tutorial](https://www.youtube.com/watch?v=MJzbJQLGehs), that provided step-by-step guidance throughout the development process. The tutorial served as a valuable resource in learning React concepts, implementing client-server communication, integrating authentication, and incorporating essential features such as channel management, search functionality, and Twilio API for message notifications.
 
 
 ## What have I learnt
